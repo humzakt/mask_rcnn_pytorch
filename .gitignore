@@ -1,0 +1,8 @@
+
+/Detectron/cropped
+/Detectron/Images_Json
+/Detectron/Images_Square
+/Detectron/Masks_Square
+/Detectron/Original_Images
+/Detectron/output
+/output 5epochs
